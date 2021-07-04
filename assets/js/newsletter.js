@@ -4,7 +4,7 @@ function myfunc() {
     Email.send({
         Host: "smtp.mailgun.org",
         Username: "postmaster@mailer.innovativescripts.com",
-        Password: "0408fec457d02582ae9ee8410beb18f6-1f1bd6a9-894aa2e5",
+        Password: "",
         To: `${email_id}`,
         From: "noreply@innovativescripts.com",
         Subject: "Thank You For Subscribing",
